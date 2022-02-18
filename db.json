@@ -1,0 +1,79 @@
+{
+    "students" : [
+        {
+            "id"            :   1,
+            "name"          :   "Ashraful Haque",
+            "roll"          :   10,
+            "class"         :   "Ten",
+            "age"           :   20,
+            "photo"         :   "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG4_jmxisaKxkvEPKQjLhKhbVX3-HfzPKZtVff4d_M8pkHDgT1xRzqHMB6Qakaqum0lFa4PtUkObbafmLCdS-JB&_nc_ohc=ddIW2MdsPkQAX-TuEL_&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_urkSi-geQoshkFtXniJLEoF1cn97YdmQnLSOI-QyUWA&oe=62148854",
+            "location"      :   "uttara",
+            "bangla"        :   50,
+            "english"       :   65,
+            "math"          :   70,
+            "science"       :   84,
+            "sscience"      :   76,
+            "religion"      :   90
+        },
+        {
+            "id"            :   2,
+            "name"          :   "Jillur Rahman",
+            "roll"          :   8,
+            "class"         :   "Nine",
+            "age"           :   22,
+            "photo"         :   "https://scontent.fdac1-1.fna.fbcdn.net/v/t1.6435-9/122492687_2404485146343501_1495939341738861362_n.jpg?stp=dst-jpg_p640x640&_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFmioqfg-xYmtvQdWkjqGUR52ES6AbceHvnYRLoBtx4e3QNLcTGoCzUN96WhpVUa_YgioB4VOToHfcpwlzwRMA2&_nc_ohc=jHHgk98tjAoAX_vYqyX&_nc_ht=scontent.fdac1-1.fna&oh=00_AT8nfrcQsktLX5qrFwkUXnU25EJHCrfL_wDms4NzCwEzig&oe=6233E780",
+            "location"      :   "Mirpur",
+            "bangla"        :   80,
+            "english"       :   65,
+            "math"          :   70,
+            "science"       :   64,
+            "sscience"      :   36,
+            "religion"      :   50
+        },
+        {
+            "id"            :   3,
+            "name"          :   "Maruful Haque",
+            "roll"          :   9,
+            "class"         :   "Eight",
+            "age"           :   25,
+            "photo"         :   "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-1/p200x200/270223057_1638933353126488_3362331927657455139_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGh-iCWkMp1W_z2GcTIvB-NZWv0AptSYhpla_QCm1JiGvwlZhNIwSeSpfcm1HRP62hRwxCMJ5P5cnbiqkxnKhFo&_nc_ohc=QO2d6oXIX2UAX8-o5gS&_nc_ht=scontent.fdac1-1.fna&oh=00_AT96E8d8SYTurR6LBvrQ3XwXCNwJHOwA3Mjh07T0hDUZYQ&oe=62157094",
+            "location"      :   "Banani",
+            "bangla"        :   60,
+            "english"       :   85,
+            "math"          :   50,
+            "science"       :   74,
+            "sscience"      :   56,
+            "religion"      :   40
+        },
+        {
+            "id"            :   4,
+            "name"          :   "Munira Akter",
+            "roll"          :   15,
+            "class"         :   "Seven",
+            "age"           :   30,
+            "photo"         :   "https://scontent.fdac1-1.fna.fbcdn.net/v/t1.6435-1/130773659_682698502611662_6432564171274700341_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeF4eeLsComkMcabiGQbg6W5Wzj39Uy-7ZpbOPf1TL7tmgDJycRf1paCZPtVhGMZZX7YUUxQW_sXo_eA8CJI_G-K&_nc_ohc=152VZyBy32sAX_SenF_&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9Mjcmz8sxZ8Zu7v2OeEp9wQCuIUgjHMwWTt6Te5G0HFg&oe=6236DED4",
+            "location"      :   "Mirpur",
+            "bangla"        :   50,
+            "english"       :   75,
+            "math"          :   60,
+            "science"       :   84,
+            "sscience"      :   96,
+            "religion"      :   70
+        },
+        {
+            "id"            :   5,
+            "name"          :   "Abu Bakkar Siddik",
+            "roll"          :   8,
+            "class"         :   "Six",
+            "age"           :   15,
+            "photo"         :   "https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/270182952_3053775348224061_8743289508235290382_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHb68y7Od1sqE9S9RhFmhBzAoa8VLhxIskChrxUuHEiycYTMxJX1_RMVtJn1cWRk7N3FsCJxTXX2q4mjZ2v0UJY&_nc_ohc=jUWUYzbPsq8AX-rjb6l&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT_hmSXIvq3FK7Sk-vlFWhUWADozzly3v8b13YEecUNZ1Q&oe=6213F65B",
+            "location"      :   "Uttora",
+            "bangla"        :   40,
+            "english"       :   65,
+            "math"          :   70,
+            "science"       :   64,
+            "sscience"      :   86,
+            "religion"      :   80
+        }
+    ]
+}

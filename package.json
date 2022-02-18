@@ -1,0 +1,14 @@
+{
+  "name": "class-18-students",
+  "version": "1.0.0",
+  "description": "Student REST API for apps and react Developer",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 5050"
+  },
+  "author": "Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
